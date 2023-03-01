@@ -1,0 +1,12 @@
+ALGORITHM TO FIND SECOND LARGEST NUMBER IN AN ARRAY
+
+STEP 1: Start 
+STEP 2: Initialize the index of array[0] element as 0
+STEP 3: Start traversing the array from array[1]. 
+STEP 4: If the element in the current index is greater than the number in the first then update the first and second as
+STEP 5: second = first
+        first = array[i]
+STEP 6: If the element is between the first and second value then update the second to the current value
+        second=a[i]
+STEP 7: Print the value that is stored in the second.
+STEP 8: Stop. 
